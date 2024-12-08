@@ -3,10 +3,15 @@ This is a Bank Account Management System built using Object-Oriented Programming
 
 **Features**
 **BankAccount Class:** Handles deposit, withdrawal, balance checking, transaction history, and statement generation.
+
 **SavingsAccount Class:** Inherits from BankAccount, adding the ability to apply interest on the account balance.
+
 **CheckingAccount Class:** Inherits from BankAccount with overdraft protection and daily withdrawal limits.
+
 **Transaction Management:** Tracks all transactions (deposit, withdrawal, interest) with timestamps.
+
 **Daily Withdrawal Limits:** Enforces withdrawal limits and resets daily.
+
 **Statement Generation:** Generates account statements for a specified date range.
 
 **Requirements**
