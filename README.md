@@ -13,15 +13,16 @@ This is a Bank Account Management System built using Object-Oriented Programming
 Python 3.x
 
 **How to Run**
-1.Clone this repository
 
-git clone https://github.com/Vishnureddy1104/Bank-Account-Management-System.git
+**1.Clone this repository**
 
-2.Navigate to the project folder
+"git clone https://github.com/Vishnureddy1104/Bank-Account-Management-System.git"
 
-cd Bank-Account-Management-System
+**2.Navigate to the project folder**
 
-3.Run the Python script to start using the system
+"cd Bank-Account-Management-System"
 
-python bank_account_system.py
+**3.Run the Python script to start using the system**
+
+"python bank_account_system.py"
 
